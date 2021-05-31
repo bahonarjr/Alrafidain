@@ -5,8 +5,20 @@ body{
 h1{
     text-align: center;
     color: white;
+    padding: 20px;
 }
+
 h2{
     text-align: center;
     color: white;
+    padding: 20px;
+}
+
+.card-img-top {
+    padding: 20px;
+}
+
+.service {
+    width: 100%;
+    margin-top: 30px;
 }
