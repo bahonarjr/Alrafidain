@@ -18,7 +18,67 @@ h2{
     padding: 20px;
 }
 
-.service {
-    width: 100%;
-    margin-top: 30px;
+
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
 }
+
+.card-group {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
+.btn {
+    color: white;
+    background-color: #D17B8D;
+}
+
+.service {
+    width: 60%;
+    margin: auto;
+}
+
+.service {
+    margin-top: 40px;
+    background-image: url('/billeder/service.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+  .h2service {
+      color: #45292E;
+  }
+
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #D17B8D;
+    color: #ffffff;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    color: black;
+  }
+  
+  .kontakt {
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 20px;
+  }
