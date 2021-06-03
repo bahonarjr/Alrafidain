@@ -82,3 +82,26 @@ h2{
     background-color: #ffffff;
     padding: 20px;
   }
+
+  .menu {
+      color: black; 
+      margin: 20px;
+  }
+
+  .menu:hover {
+    color: #D17B8D;
+  }
+
+  .navbar {
+      text-align: center;
+  }
+
+  .page-footer {
+      background-color: #ffffff;
+      text-align: center;
+  }
+  
+  .footer {
+      text-align: center;
+  }
+ 
