@@ -32,6 +32,10 @@ h2{
     padding: 10px;
 }
 
+.card-text {
+    font-family: "Nanum Gothic", sans-serif;
+}
+
 .btn {
     color: white;
     background-color: #D17B8D;
@@ -106,4 +110,3 @@ h2{
   .footer {
       text-align: center;
   }
- 
