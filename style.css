@@ -87,7 +87,7 @@ h2 {
     border-radius: 5px;
     background-color: #ffffff;
     padding: 20px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
   }
 
   .menu {
@@ -135,3 +135,10 @@ h2 {
     color: black; /* Add a dark-grey background on hover */
   }
   
+  .googlemaps {
+    display: flex;
+  }
+  
+  .iframe {
+    margin: auto;
+  }
